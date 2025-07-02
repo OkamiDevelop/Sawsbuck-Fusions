@@ -10,3 +10,4 @@ The name of the file (png, jpg) should be your **name** so you can be credited!
 Github <br>
 &emsp;└── Bulbasaur<br>
 &emsp;&emsp;&emsp;&emsp;└── okamidev.png   _(My sprite)_
+
